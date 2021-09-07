@@ -6,7 +6,7 @@ class Player {
         //this.score=0
         //this.score
         //var score
-        //score=0
+       // score=0
     }
 
     getCount() {
